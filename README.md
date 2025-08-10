@@ -1,6 +1,6 @@
 # QiYuan OS - 启元操作系统
 
-![QiYuan OS Logo](QiYuan OS.png)
+!https://github.com/SYSTEM-WIN-ZDY/QiYuanOS/edit/main/QiYuan%20OS.png
 
 ## 项目概述
 QiYuan OS是一个教育性质的操作系统项目，旨在实现基本的操作系统功能，包括：
